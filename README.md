@@ -16,9 +16,13 @@ The optimization process is implemented using Bayesian Optimization, leveraging 
 4. **Function for Evaluating SVM**: A function is defined to evaluate SVM with given parameters, calculating accuracy using the test set.
 5. **Bayesian Optimization for Multiple Samples**: Bayesian Optimization is performed for multiple samples, with results recorded including the best accuracy and corresponding SVM parameters.
 6. **Visualization of Convergence Plots**: Convergence plots for each sample are visualized to demonstrate the optimization process.
+![download (4)](https://github.com/harshitstark13/Parameter-Optimization-of-SVM/assets/95651978/dadb2a8f-4c41-47ef-9bfd-b18e278fd5a7)
+
 7. **Creating DataFrame for Results**: Results including sample number, best accuracy, and corresponding SVM parameters are presented in a DataFrame.
 8. **Finding Sample with Maximum Accuracy**: The sample with the maximum accuracy is identified from the results.
 9. **Plotting Convergence for Maximum Accuracy Sample**: Convergence plot for the sample with the maximum accuracy is generated.
+![download (5)](https://github.com/harshitstark13/Parameter-Optimization-of-SVM/assets/95651978/d0a7a909-c368-46a7-b209-984f13a6837b)
+
 
 ## **Usage**
 
